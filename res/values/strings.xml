@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EditText estilos - danielme.com</string>
+    <string name="nativo">Estilo nativo</string>
+    <string name="estilo">Estilo personalizado</string>
+
+</resources>
